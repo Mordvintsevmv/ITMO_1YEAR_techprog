@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/bin/Debug/netcoreapp2.1/Utils.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/bin/Debug/netcoreapp2.1/Utils.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/bin/Debug/netcoreapp2.1/Utils.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/bin/Debug/netcoreapp2.1/Utils.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/bin/Debug/netcoreapp2.1/Utils.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/obj/Debug/netcoreapp2.1/Utils.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/obj/Debug/netcoreapp2.1/Utils.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/obj/Debug/netcoreapp2.1/Utils.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/obj/Debug/netcoreapp2.1/Utils.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/obj/Debug/netcoreapp2.1/Utils.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/Utils/Utils/Utils/obj/Debug/netcoreapp2.1/Utils.pdb

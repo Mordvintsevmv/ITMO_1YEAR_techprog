@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/bin/Debug/netcoreapp2.1/KvadrUr.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/bin/Debug/netcoreapp2.1/KvadrUr.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/bin/Debug/netcoreapp2.1/KvadrUr.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/bin/Debug/netcoreapp2.1/KvadrUr.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/bin/Debug/netcoreapp2.1/KvadrUr.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/obj/Debug/netcoreapp2.1/KvadrUr.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/obj/Debug/netcoreapp2.1/KvadrUr.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/obj/Debug/netcoreapp2.1/KvadrUr.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/obj/Debug/netcoreapp2.1/KvadrUr.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/obj/Debug/netcoreapp2.1/KvadrUr.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab04/KvadrUr/KvadrUr/KvadrUr/obj/Debug/netcoreapp2.1/KvadrUr.pdb
