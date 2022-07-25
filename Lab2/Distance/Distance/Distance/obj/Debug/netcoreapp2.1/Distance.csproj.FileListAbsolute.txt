@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/bin/Debug/netcoreapp2.1/Distance.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/bin/Debug/netcoreapp2.1/Distance.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/bin/Debug/netcoreapp2.1/Distance.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/bin/Debug/netcoreapp2.1/Distance.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/bin/Debug/netcoreapp2.1/Distance.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/obj/Debug/netcoreapp2.1/Distance.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/obj/Debug/netcoreapp2.1/Distance.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/obj/Debug/netcoreapp2.1/Distance.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/obj/Debug/netcoreapp2.1/Distance.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/obj/Debug/netcoreapp2.1/Distance.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/Distance/Distance/Distance/obj/Debug/netcoreapp2.1/Distance.pdb

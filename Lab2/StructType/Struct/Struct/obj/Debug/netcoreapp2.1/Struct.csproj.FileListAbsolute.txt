@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/bin/Debug/netcoreapp2.1/Struct.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/bin/Debug/netcoreapp2.1/Struct.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/bin/Debug/netcoreapp2.1/Struct.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/bin/Debug/netcoreapp2.1/Struct.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/bin/Debug/netcoreapp2.1/Struct.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/obj/Debug/netcoreapp2.1/Struct.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/obj/Debug/netcoreapp2.1/Struct.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/obj/Debug/netcoreapp2.1/Struct.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/obj/Debug/netcoreapp2.1/Struct.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/obj/Debug/netcoreapp2.1/Struct.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/StructType/Struct/Struct/obj/Debug/netcoreapp2.1/Struct.pdb

@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/bin/Debug/netcoreapp2.1/BankAccount.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/bin/Debug/netcoreapp2.1/BankAccount.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/bin/Debug/netcoreapp2.1/BankAccount.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/bin/Debug/netcoreapp2.1/BankAccount.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/bin/Debug/netcoreapp2.1/BankAccount.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/obj/Debug/netcoreapp2.1/BankAccount.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/obj/Debug/netcoreapp2.1/BankAccount.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/obj/Debug/netcoreapp2.1/BankAccount.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/obj/Debug/netcoreapp2.1/BankAccount.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/obj/Debug/netcoreapp2.1/BankAccount.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab02/BankAccount/BankAccount/obj/Debug/netcoreapp2.1/BankAccount.pdb
