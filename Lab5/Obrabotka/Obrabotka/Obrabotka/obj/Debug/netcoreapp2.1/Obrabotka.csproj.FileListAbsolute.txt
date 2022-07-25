@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/bin/Debug/netcoreapp2.1/Obrabotka.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/bin/Debug/netcoreapp2.1/Obrabotka.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/bin/Debug/netcoreapp2.1/Obrabotka.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/bin/Debug/netcoreapp2.1/Obrabotka.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/bin/Debug/netcoreapp2.1/Obrabotka.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/obj/Debug/netcoreapp2.1/Obrabotka.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/obj/Debug/netcoreapp2.1/Obrabotka.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/obj/Debug/netcoreapp2.1/Obrabotka.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/obj/Debug/netcoreapp2.1/Obrabotka.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/obj/Debug/netcoreapp2.1/Obrabotka.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/Obrabotka/Obrabotka/Obrabotka/obj/Debug/netcoreapp2.1/Obrabotka.pdb

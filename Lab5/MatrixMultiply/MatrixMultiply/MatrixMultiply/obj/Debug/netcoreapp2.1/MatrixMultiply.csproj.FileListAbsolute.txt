@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/bin/Debug/netcoreapp2.1/MatrixMultiply.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/bin/Debug/netcoreapp2.1/MatrixMultiply.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/bin/Debug/netcoreapp2.1/MatrixMultiply.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/bin/Debug/netcoreapp2.1/MatrixMultiply.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/bin/Debug/netcoreapp2.1/MatrixMultiply.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/obj/Debug/netcoreapp2.1/MatrixMultiply.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/obj/Debug/netcoreapp2.1/MatrixMultiply.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/obj/Debug/netcoreapp2.1/MatrixMultiply.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/obj/Debug/netcoreapp2.1/MatrixMultiply.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/obj/Debug/netcoreapp2.1/MatrixMultiply.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab05/MatrixMultiply/MatrixMultiply/MatrixMultiply/obj/Debug/netcoreapp2.1/MatrixMultiply.pdb
