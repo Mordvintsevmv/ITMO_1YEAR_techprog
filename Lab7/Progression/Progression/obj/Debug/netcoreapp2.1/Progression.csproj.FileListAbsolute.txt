@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/obj/Debug/netcoreapp2.1/Progression.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/obj/Debug/netcoreapp2.1/Progression.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/obj/Debug/netcoreapp2.1/Progression.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/obj/Debug/netcoreapp2.1/Progression.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/bin/Debug/netcoreapp2.1/Progression.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/bin/Debug/netcoreapp2.1/Progression.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/bin/Debug/netcoreapp2.1/Progression.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/bin/Debug/netcoreapp2.1/Progression.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/bin/Debug/netcoreapp2.1/Progression.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/obj/Debug/netcoreapp2.1/Progression.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab07/Progression/Progression/obj/Debug/netcoreapp2.1/Progression.pdb
