@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/bin/Debug/netcoreapp2.1/Bow.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/bin/Debug/netcoreapp2.1/Bow.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/bin/Debug/netcoreapp2.1/Bow.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/bin/Debug/netcoreapp2.1/Bow.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/bin/Debug/netcoreapp2.1/Bow.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/obj/Debug/netcoreapp2.1/Bow.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/obj/Debug/netcoreapp2.1/Bow.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/obj/Debug/netcoreapp2.1/Bow.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/obj/Debug/netcoreapp2.1/Bow.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/obj/Debug/netcoreapp2.1/Bow.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Bow/Bow/Bow/obj/Debug/netcoreapp2.1/Bow.pdb

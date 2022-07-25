@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/bin/Debug/netcoreapp2.1/Evklid.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/bin/Debug/netcoreapp2.1/Evklid.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/bin/Debug/netcoreapp2.1/Evklid.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/bin/Debug/netcoreapp2.1/Evklid.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/bin/Debug/netcoreapp2.1/Evklid.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/obj/Debug/netcoreapp2.1/Evklid.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/obj/Debug/netcoreapp2.1/Evklid.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/obj/Debug/netcoreapp2.1/Evklid.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/obj/Debug/netcoreapp2.1/Evklid.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/obj/Debug/netcoreapp2.1/Evklid.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Evklid/Evklid/Evklid/obj/Debug/netcoreapp2.1/Evklid.pdb
