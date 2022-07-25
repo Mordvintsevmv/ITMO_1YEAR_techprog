@@ -1,0 +1,5 @@
+c:\users\mordvm\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe.config
+c:\users\mordvm\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
+c:\users\mordvm\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
+c:\users\mordvm\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
+c:\users\mordvm\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb

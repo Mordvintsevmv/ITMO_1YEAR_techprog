@@ -1,0 +1,6 @@
+c:\users\mordvm\documents\visual studio 2015\Projects\Divider\Divider\bin\Debug\Divider.exe.config
+c:\users\mordvm\documents\visual studio 2015\Projects\Divider\Divider\bin\Debug\Divider.exe
+c:\users\mordvm\documents\visual studio 2015\Projects\Divider\Divider\bin\Debug\Divider.pdb
+c:\users\mordvm\documents\visual studio 2015\Projects\Divider\Divider\obj\Debug\Divider.csprojResolveAssemblyReference.cache
+c:\users\mordvm\documents\visual studio 2015\Projects\Divider\Divider\obj\Debug\Divider.exe
+c:\users\mordvm\documents\visual studio 2015\Projects\Divider\Divider\obj\Debug\Divider.pdb
