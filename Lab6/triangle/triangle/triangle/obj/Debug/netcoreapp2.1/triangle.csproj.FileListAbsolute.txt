@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/bin/Debug/netcoreapp2.1/triangle.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/bin/Debug/netcoreapp2.1/triangle.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/bin/Debug/netcoreapp2.1/triangle.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/bin/Debug/netcoreapp2.1/triangle.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/bin/Debug/netcoreapp2.1/triangle.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/obj/Debug/netcoreapp2.1/triangle.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/obj/Debug/netcoreapp2.1/triangle.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/obj/Debug/netcoreapp2.1/triangle.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/obj/Debug/netcoreapp2.1/triangle.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/obj/Debug/netcoreapp2.1/triangle.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab06/triangle/triangle/triangle/obj/Debug/netcoreapp2.1/triangle.pdb
