@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/bin/Debug/netcoreapp2.1/Year.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/bin/Debug/netcoreapp2.1/Year.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/bin/Debug/netcoreapp2.1/Year.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/bin/Debug/netcoreapp2.1/Year.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/bin/Debug/netcoreapp2.1/Year.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/obj/Debug/netcoreapp2.1/Year.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/obj/Debug/netcoreapp2.1/Year.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/obj/Debug/netcoreapp2.1/Year.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/obj/Debug/netcoreapp2.1/Year.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/obj/Debug/netcoreapp2.1/Year.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Year/Year/Year/obj/Debug/netcoreapp2.1/Year.pdb

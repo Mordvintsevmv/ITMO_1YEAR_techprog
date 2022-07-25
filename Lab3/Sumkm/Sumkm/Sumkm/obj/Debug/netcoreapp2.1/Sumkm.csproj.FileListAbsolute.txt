@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/bin/Debug/netcoreapp2.1/Sumkm.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/bin/Debug/netcoreapp2.1/Sumkm.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/bin/Debug/netcoreapp2.1/Sumkm.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/bin/Debug/netcoreapp2.1/Sumkm.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/bin/Debug/netcoreapp2.1/Sumkm.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/obj/Debug/netcoreapp2.1/Sumkm.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/obj/Debug/netcoreapp2.1/Sumkm.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/obj/Debug/netcoreapp2.1/Sumkm.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/obj/Debug/netcoreapp2.1/Sumkm.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/obj/Debug/netcoreapp2.1/Sumkm.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sumkm/Sumkm/Sumkm/obj/Debug/netcoreapp2.1/Sumkm.pdb

@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/bin/Debug/netcoreapp2.1/Shapeifelse.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/bin/Debug/netcoreapp2.1/Shapeifelse.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/bin/Debug/netcoreapp2.1/Shapeifelse.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/bin/Debug/netcoreapp2.1/Shapeifelse.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/bin/Debug/netcoreapp2.1/Shapeifelse.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/obj/Debug/netcoreapp2.1/Shapeifelse.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/obj/Debug/netcoreapp2.1/Shapeifelse.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/obj/Debug/netcoreapp2.1/Shapeifelse.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/obj/Debug/netcoreapp2.1/Shapeifelse.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/obj/Debug/netcoreapp2.1/Shapeifelse.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Shapeifelse/Shapeifelse/Shapeifelse/obj/Debug/netcoreapp2.1/Shapeifelse.pdb

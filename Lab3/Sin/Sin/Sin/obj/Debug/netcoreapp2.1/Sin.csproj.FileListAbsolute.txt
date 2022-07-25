@@ -1,0 +1,11 @@
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/bin/Debug/netcoreapp2.1/Sin.deps.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/bin/Debug/netcoreapp2.1/Sin.runtimeconfig.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/bin/Debug/netcoreapp2.1/Sin.runtimeconfig.dev.json
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/bin/Debug/netcoreapp2.1/Sin.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/bin/Debug/netcoreapp2.1/Sin.pdb
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/obj/Debug/netcoreapp2.1/Sin.csprojAssemblyReference.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/obj/Debug/netcoreapp2.1/Sin.csproj.CoreCompileInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/obj/Debug/netcoreapp2.1/Sin.AssemblyInfoInputs.cache
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/obj/Debug/netcoreapp2.1/Sin.AssemblyInfo.cs
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/obj/Debug/netcoreapp2.1/Sin.dll
+/Users/Mordintsevmv/Documents/Занятия/1 курс/2 семестр/Технологии программирования/Практические /Lab03/Sin/Sin/Sin/obj/Debug/netcoreapp2.1/Sin.pdb
